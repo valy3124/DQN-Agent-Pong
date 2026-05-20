@@ -1,0 +1,7 @@
+gymnasium[atari,accept-rom-license]==1.1.1
+stable-baselines3[extra]==2.4.1
+wandb==0.16.6
+tensorboard==2.14.0
+imageio==2.35.1
+torch==2.4.1
+ale-py==0.10.1
